@@ -43,5 +43,5 @@ Hoy aplico ese mismo enfoque con SQL, Python y Tableau: pruebas A/B, cohortes, e
 ## 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielalopezlarios)
-[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/Proyecto_final_Gabriela_Lopez/Overview)
+[![Tableau Public](https://img.shields.io/badge/Tableau%20Public-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/gabriela.lopez5143/vizzes)
 [![Email](https://img.shields.io/badge/Email-gaby.27lop%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:gaby.27lop@gmail.com)

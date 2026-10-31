@@ -1,12 +1,12 @@
-# Hola, soy Gabriela López Larios 👋
+## Hola, soy Gabriela López Larios 👋
 
-### Analista de Datos | Business Intelligence | SQL · Python · Tableau
+### Supply Chain Data Analyst | Inventarios y Planeación | SQL · Python · Tableau · Oracle ERP
 
-Ingeniera Química Industrial con **8+ años en operaciones y cadena de suministro** en Sherwin Williams, donde convertí datos de Oracle ERP y Excel en decisiones que **redujeron 50% el gasto en tiempo extra** y **50% las discrepancias de inventario**.
+Ingeniera Química Industrial con **9 años en control de inventarios y planeación de la producción** en Sherwin-Williams. Conciliando datos de Oracle ERP **resolví el 82% de las diferencias críticas de inventario**, **reduje 61% las horas extra** del almacén y aporté el análisis que sustentó un **ahorro anual de $150,000 USD**.
 
-Hoy aplico ese mismo enfoque con SQL, Python y Tableau: pruebas A/B, cohortes, embudos de conversión y análisis financiero, traducidos en recomendaciones claras para áreas no técnicas.
+Hoy aplico ese enfoque con SQL, Python y Tableau: calidad de datos, KPIs, embudos, cohortes y pruebas A/B, traducidos en recomendaciones claras para áreas no técnicas.
 
-📍 Ciudad de México
+📍 Ciudad de México · Busco roles de Supply Chain Data Analyst o Demand & Inventory Planning Analyst
 
 ---
 

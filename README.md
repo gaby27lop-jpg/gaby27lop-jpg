@@ -27,7 +27,7 @@ Hoy aplico ese enfoque con SQL, Python y Tableau: calidad de datos, KPIs, embudo
 ---
 
 ## 📂 Proyectos destacados
-
+Casos de práctica con datos simulados, desarrollados en el bootcamp de TripleTen (2026)
 | Proyecto | Qué resolví | Herramientas |
 |----------|-------------|--------------|
 | [🛵 RappiPlus: de datos a decisiones](https://github.com/gaby27lop-jpg/rappiplus-analisis-end-to-end) | Análisis de punta a punta: margen neto de 11.47% sobre $51.95M, fuga de 13.3% en el pago y un test A/B que evitó atribuir un impacto no comprobado | Python · SQL · Tableau |

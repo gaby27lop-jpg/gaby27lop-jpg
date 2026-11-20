@@ -2,11 +2,11 @@
 
 ### Supply Chain Data Analyst | Inventarios y Planeación | SQL · Python · Tableau · Oracle ERP
 
-Ingeniera Química Industrial con **9 años en control de inventarios y planeación de la producción** en Sherwin-Williams. Conciliando datos de Oracle ERP **resolví el 82% de las diferencias críticas de inventario**, **reduje 61% las horas extra** del almacén y aporté el análisis que sustentó un **ahorro anual de $150,000 USD**.
+Ingeniera Química Industrial con **9 años en manufactura y planeación de la producción** en Sherwin-Williams. Conciliando datos de Oracle ERP **resolví el 82% de las diferencias críticas de inventario**, **reduje 61% las horas extra** del almacén y aporté el análisis que sustentó un **ahorro anual de $150,000 USD**.
 
 Hoy aplico ese enfoque con SQL, Python y Tableau: calidad de datos, KPIs, embudos, cohortes y pruebas A/B, traducidos en recomendaciones claras para áreas no técnicas.
 
-📍 Ciudad de México · Busco roles de Supply Chain Data Analyst o Demand & Inventory Planning Analyst
+📍 Ciudad de México · Busco roles de Supply Chain Data Analyst o Inventory & Planning Analyst
 
 ---
 
